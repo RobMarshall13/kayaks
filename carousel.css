@@ -123,3 +123,38 @@ body {
     margin-top: 7rem;
   }
 }
+
+@media (max-width:650px){
+
+
+  .carousel-caption h1{
+    font-size:3rem ;
+  }
+  
+  .carousel-caption ul{
+    margin-top: 1rem;
+    font-size:.75rem;
+  }
+  
+  .carousel-caption p{
+    margin-top: 2rem;
+  
+  
+  }
+
+  .callout {
+    font-size: 1.5rem;
+  }
+
+  .text-muted{
+    font-size: 1.3rem;
+  }
+
+  .images{
+    position:relative;
+    margin-top: 130px;
+    margin-bottom: 30px;
+  }
+
+
+}
